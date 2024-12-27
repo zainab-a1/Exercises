@@ -26,7 +26,7 @@ class Restaurant:
     def print_num_served(self):
         print(f"The number served is now {self.number_served}")
         
-# """No make three objects(instances)"""
+"""Now make three objects(instances)"""
 
 restaurant_1 = Restaurant("Ali", "Thai")
 
